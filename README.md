@@ -1,5 +1,9 @@
 # Recipease
 
+
+![](./recipease.png)
+
+
 ## Getting started
 
 Don't forget to `yarn`. This project was bootstrapped with Create React App, so all of the usual procedures common to it apply here. 
